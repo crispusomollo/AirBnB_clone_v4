@@ -1,13 +1,13 @@
 Toggle navigation
-You have a captain's log due before 2023-02-26 (in 1 day)! Log it now!
+You have a captain's log due before 2024-01-14 (in 1 day)! Log it now!
 0x06. AirBnB clone - Web dynamic
 Python
 Front-end
 JavaScript
  By: Guillaume, CTO at Holberton School
  Weight: 2
- Project to be done in teams of 2 people (your team: yonas Ferew, Jashon Osala)
- Project over - took place from Feb 21, 2023 6:00 AM to Feb 24, 2023 6:00 AM
+ Project to be done in teams of 2 people (your team: Crispus Makokha Omollo, Hillary Haggai)
+ Project over - took place from Jan 12, 2024 6:00 AM to Jan 15, 2024 6:00 AM
  Manual QA review must be done (request it when you are done with the project)
  An auto review will be launched at the deadline
 In a nutshell…
